@@ -41,3 +41,28 @@ function escopoLocal() {
 }
 
 escopoLocal()
+
+/* Operadores aritméticos
+
++ Adição
+- Subtração
+* Multiplicação
+/ Divisão Real
+% Divisão Inteira
+** Potenciação
+*/
+
+/* Operadores relacionais
+
+> Maior que
+< Menor que
+>= Maior ou igual a
+<= Menor ou igual a
+*/
+
+/* Operadores Lógicos
+
+&& - "e" - Considera que todos os valores sejam true
+|| - "ou" - Considera que qualquer valor seja true
+! - "não" - Inverte o valor de true para false ou vice-versa
+*/
